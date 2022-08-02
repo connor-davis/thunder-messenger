@@ -1,0 +1,10 @@
+node_modules
+.env.*
+.env
+ssl
+certs
+downloads
+dist
+app
+build
+/.idea/discord.xml
